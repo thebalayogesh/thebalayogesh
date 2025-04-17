@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thebalayogesh
 - 👀 I’m interested in Developing Solutions to Real-world Problems
-- 🌱 I’m currently learning Python and exploring Machine Learning
-- 💞️ I’m looking to collaborate on Python projects, open-source contributions, and innovative solutions
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects and so on
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/theyogeshwaran/) | [Email](mailto:thebalayogesh@example.com)
 - ⚡ Fun fact: I love to exploring new technologies, and experimenting with automation!
 
