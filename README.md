@@ -16,8 +16,8 @@
 - 🚀 Learning concepts in AI like Vector DB, AI Embeddings.
 
 ### Hobbies
-- 📚 Reading tech blogs 
-- 🔧 Tinkering with software and new Technologies
+- 📚 Reading tech blogs.
+- 🔧 Tinkering with software and new Technologies.
 
 <!---
 thebalayogesh/thebalayogesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
